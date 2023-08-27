@@ -16,7 +16,8 @@
 
  <img src="https://media.geeksforgeeks.org/wp-content/uploads/20221222013208/Screenshot_2022-12-22-01-31-04-96_4a24d271e133915ae237d4bec6ffe368.jpg">
 # Tech Used
- ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+      
       
 ### Follow me
 [Links](https:[//itsvg.in](https://www.facebook.com/emamul.hossen.503))
